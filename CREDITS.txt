@@ -2,12 +2,12 @@
 
 All images courtesy of Unsplash (https://unsplash.com).
 
-- Martin Grincevschi (https://unsplash.com/photos/uCnOENPOBxM)
-- Pete Bellis (https://unsplash.com/photos/eDVQwVMLMgU)
-- Ciprian Lipenschi (https://unsplash.com/photos/OULAwYI3AGs)
-- Michael Dam (https://unsplash.com/photos/mEZ3PoFGs_k)
-- rawpixel.com (https://unsplash.com/photos/izTZ-TtdwCs)
+- Redd Angelo (https://unsplash.com/photos/h34WJ4T9uhw)
+- Nirzar Pangarkar (https://unsplash.com/photos/EKjJSbVI7rk)
+- Maxim Polishtchouk (https://unsplash.com/photos/N6q6wtJ_mkA)
 
-# Video Credits
-
-Video courtesy of Coverr (http://coverr.co).
+<!--
+	Projection by TEMPLATED
+	templated.co @templatedco
+	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+-->
